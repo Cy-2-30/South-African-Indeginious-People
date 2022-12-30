@@ -5,6 +5,8 @@
     margin: 0;
   }
 body{
+    display: flex;
+    flex-direction: column;
     background-color: #F0EEC9;
     font-family: 'Source Serif 4', serif;
     color: #180A00;
@@ -17,4 +19,19 @@ header, footer{
     color: #FFF;
     width: 100%;
   } 
- 
+ hr{
+  border: 4px solid #54441B;
+ } 
+
+/*header*/
+
+/*content body*/
+
+/*media query for table*/
+
+/*media query for desktop*/
+
+ /*footer*/
+ #footnotes{
+  margin-top: auto;
+ }
