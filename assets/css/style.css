@@ -34,4 +34,26 @@ header, footer{
  /*footer*/
  #footnotes{
   margin-top: auto;
+  text-transform: capitalize;
+  font-size: 10px;
  }
+ .fontawesome-icons{
+  letter-spacing: 2px;
+  font-size: 15px;
+  line-height: 1px;
+  }
+.fontawesome-icons a{
+  color:#FFF
+  }
+.facebook-icon :hover{
+  color: #3B5A9B;
+  }
+.twitter-icon :hover{
+  color: #2B97F1;
+  }
+.instagram-icon :hover{
+  color: #f7120e;
+  }
+.linkedin-icon :hover{
+  color: #006599;
+  }
