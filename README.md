@@ -48,7 +48,7 @@ The website is about the historic origin of the Khoisan people, who are known to
 ## Color Scheme Used 
 Choose soft colors that represent the safari and nature that surround the Khoisan people. I used Hex formating for colors on CSS 
 
-![Color Palette](assets/color-palette/color-palette.png) 
+![Color Palette](assets/color-palette/color-palette-9kb-1593x247.png) 
 
 * __#F0EEC9__ - Is used as a background color. 
 * __#DCAA68__ - Is used to highlight when hovering over responsive features.  
