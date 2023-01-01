@@ -54,9 +54,9 @@ Choose soft colors that represent the safari and nature that surround the Khoisa
 * __#DCAA68__ - Is used to highlight when hovering over responsive features.  
 * __#AE7F4D__ - Is used for the header and footer background color. 
 * __#180A00__ - Is used for the font.  
-* __#867D2C__ - Used on the form.  
-* __#54441B__ - Used on links and borders.
-* __#FFF__ - Font color on footer and on hover for the menu bar
+* __#867D2C__ - Is used on the form.  
+* __#54441B__ - Is used on links and borders.
+* __#FFF__ - Is used for the font color on footer and on hover for the menu bar.
 
 
 ## Typography
@@ -64,3 +64,32 @@ Google fonts **Courgette** pared with **Libre Baskerville** has been used and **
 
 
 ## Wireframe 
+
+### Home
+* Shows the brief description of the website. 
+* By explaining the purpose of the website. 
+* Giving a brief explaination about the website content. 
+![Home Page](assets/wireframe/home-14kb-756x614.png) 
+
+
+### Gallery
+* Pictures telling a story with brief description. 
+* Tourist attractions for more information. 
+* Links to online resources for further knowledge.  
+![Gallery Page](assets/wireframe/gallery-23kb-794x858.png) 
+
+
+### About Us
+* Shows a feedback form, video, office postal address, contact details, and map location. 
+![About Us Page](assets/wireframe/about-us-18kb-793x732.png) 
+
+
+### Mobile version 
+* Mobile design initial idea.
+![Mobile View](assets/wireframe/mobile-view-45kb-904-941.png) 
+[Table of Content](#table-of-content) :arrow_up:
+
+
+## Features 
+
+All the information displayed on the website and technologies used to create it.  
