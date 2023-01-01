@@ -60,7 +60,15 @@ a{
   color: #FFF;
 }
 /*content body*/
-
+section{
+  display: flex;
+  flex-direction: column;
+  padding: 20px 15px 15px 20px;
+  margin: 10px 15px 10px 15px;
+  width: 90%;
+  height: inherit;  
+  word-spacing: 1.5px;
+  }
 /*media query for table*/
 
 /*media query for desktop*/
