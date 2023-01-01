@@ -25,6 +25,9 @@ header, footer{
 a{
   text-decoration: none;
 }
+a:hover{
+  cursor: pointer;
+}
 /*header*/
 #hero{
   display: flex;
