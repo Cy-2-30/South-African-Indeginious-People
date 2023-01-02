@@ -37,6 +37,8 @@ a:hover{
   font-size: 8px;
   } 
   #hero img{
+    width: 130px;
+    height: 65px;
     padding: 2px;
     margin: 5px;
   }
@@ -61,6 +63,7 @@ a:hover{
 section{
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   padding: 5px 10px 10px 10px;
   margin: 5px 20px 15px 20px;
   width: 90%;
@@ -93,6 +96,14 @@ section{
     width: 240px;
     height: 96px;
     border-radius: 5px;
+  }
+  .list-purpose,.container-brief,.brief-paragraph1,.brief-paragraph2{
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+  }
+  .brief{
+    padding-top: 5px;
+    margin-top: 15px;
   }
 /*media query for table*/
 
