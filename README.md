@@ -1,4 +1,4 @@
-![Website Logo](assets/images/logo_4kb_250x100.png) 
+![Website Logo](assets/images/logo-4kb-144x82.png) 
 
 # Khoisan People 
 
