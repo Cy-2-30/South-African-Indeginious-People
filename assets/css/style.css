@@ -105,11 +105,7 @@ section{
     padding-top: 5px;
     margin-top: 15px;
   }
-/*media query for table*/
-
-/*media query for desktop*/
-
- /*footer*/
+  /*footer*/
  #footnotes{
   display: flex;
   align-items: flex-end;
@@ -138,3 +134,75 @@ section{
 .linkedin-icon :hover{
   color: #006599;
   }
+/*media query for table*/
+@media only screen and (min-width: 600px){
+  #hero img{
+    width: 144px;
+    height: 70px;
+  }
+  #menu-bar a{
+    font-size: 18px;
+    line-height: 50px;
+    padding-right: 5px;
+    margin-right: 10px;
+  }
+  .declaration{
+    font-size: 11px;
+  }
+  #content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 80px;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  h2{
+    font-size: 20px;
+  }
+  .purpose,.brief{
+    width: 40%;
+  }
+  .container-purpose,.image-container2{
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+  }
+  .container-brief,.brief{
+    padding-top: 0px;
+    margin-top: 15px;
+  }
+  .brief{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 15px;
+  }
+  .images{
+    width: 280px;
+    height: 168px;
+  }
+  .dance-image{
+    width: 280px;
+    height: 120px;
+  }
+  .container-brief{
+    height: 200px;
+    width: 320px;
+    white-space: wrap;  
+    overflow: hidden;
+    overflow: scroll;
+    text-overflow: ellipsis;
+  }
+  .container-purpose{
+    height: 200px;
+    width: 320px;
+  }
+  .fontawesome-icons{
+    letter-spacing: 4px;
+    font-size: 20px;
+    line-height: 2px;
+  }
+}
+/*media query for desktop*/
+
+ 
