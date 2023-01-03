@@ -36,7 +36,7 @@ a:hover{
   letter-spacing: 1px;
   font-size: 8px;
   } 
-  #hero img{
+  #hero img,.link-image{
     width: 130px;
     height: 65px;
     padding: 2px;
@@ -106,10 +106,10 @@ section{
     margin-top: 15px;
   }
   /*content gallery page body*/
-  #-gallery-content{
-    display: flex;
-    flex-direction: row;
+  #gallery-content{
+    
   }
+
   /*footer*/
   #footnotes{
   display: flex;
@@ -156,6 +156,7 @@ section{
   }
 /*media query for table*/
 @media only screen and (min-width: 600px){
+  /*header*/
   #hero img{
     width: 144px;
     height: 70px;
@@ -166,6 +167,7 @@ section{
     padding-right: 5px;
     margin-right: 10px;
   }
+  /*home page*/
   .declaration,#office-address{
     font-size: 11px;
   }
@@ -216,6 +218,13 @@ section{
     height: 200px;
     width: 280px;
   }
+  /*gallery page*/
+  #gallery-content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  /*footer*/
   #office-address{
     display: flex;
     justify-content: center;
