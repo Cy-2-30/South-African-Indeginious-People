@@ -59,7 +59,7 @@ a:hover{
   text-decoration: 5px underline #DCAA68;
   color: #FFF;
 }
-/*content body*/
+/*content home page body*/
 section{
   display: flex;
   flex-direction: column;
@@ -104,6 +104,11 @@ section{
   .brief{
     padding-top: 5px;
     margin-top: 15px;
+  }
+  /*content gallery page body*/
+  #-gallery-content{
+    display: flex;
+    flex-direction: row;
   }
   /*footer*/
   #footnotes{
