@@ -107,7 +107,8 @@ section{
   }
   /*content gallery page body*/
   #gallery-content{
-    
+  
+
   }
 
   /*footer*/
@@ -219,11 +220,7 @@ section{
     width: 280px;
   }
   /*gallery page*/
-  #gallery-content{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
+ 
   /*footer*/
   #office-address{
     display: flex;
