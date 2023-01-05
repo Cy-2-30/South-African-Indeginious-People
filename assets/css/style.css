@@ -208,12 +208,17 @@ section{
     height: 96px;
   }
   .container-brief{
-    height: 500px;
+    height: 300px;
     width: 280px;
     white-space: wrap;  
-    /*overflow: hidden;
+    overflow: hidden;
     overflow: scroll;
-    text-overflow: ellipsis;*/
+    text-overflow: ellipsis;
+  }
+  .container-brief .brief-paragraph3{
+    display: flex;
+    flex-direction: column;
+
   }
   .container-purpose{
     height: 200px;
