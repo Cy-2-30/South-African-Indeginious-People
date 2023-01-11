@@ -97,8 +97,6 @@ section{
     border-radius: 2px;
     background-color: #54441B;
     color: #FFF;
-    padding-left: 3px;
-    padding-right: 3px;
     text-transform: capitalize;
     text-align: center;
     font-style: italic;
@@ -118,10 +116,7 @@ section{
     margin-top: 15px;
   }
   /*content gallery page body*/
-  #gallery-content{
-  
-
-  }
+ 
 
   /*footer*/
   #footnotes{
@@ -212,7 +207,7 @@ section{
     display: flex;
     flex-direction: column-reverse;
   }
-  .images{
+  .img-tablet{
     width: 280px;
     height: 168px;
   }
@@ -233,7 +228,11 @@ section{
     width: 280px;
   }
   /*gallery page*/
- 
+  .content-intro{
+  display: flex;
+  flex-wrap: row;
+  flex-flow: column wrap;
+ }
   /*footer*/
   #office-address{
     font-size: 11px;
