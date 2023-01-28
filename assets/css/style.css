@@ -1,4 +1,15 @@
-/*unversal accross all pages for 320px and more mobile*/
+/*unversal accross all pages for 320px and more mobile
+*************************************************************************************************
+* --pale-spring-bud: #F0EEC9__ - background color. 
+* --earth-yellow: #DCAA68__ - highlight when hovering over responsive features.  
+* --cafe-au-lait: #AE7F4D__ - header and footer background color. 
+* --smoky-black: #180A00__ - font.  
+* --spanish-bistre: #867D2C__ -  form.  
+* --field-drab: #54441B__ - links and borders.
+* --white:  #FFF__ - font color on footer and on hover for the menu bar.
+*/
+
+
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz@8..60&display=swap');
 *{
     padding: 0;
