@@ -69,24 +69,24 @@ Google fonts **Courgette** pared with **Libre Baskerville** has been used and **
 * Shows the brief description of the website. 
 * By explaining the purpose of the website. 
 * Giving a brief explaination about the website content. 
-![Home Page](assets/wireframe/home-14kb-756x614.png) 
+![Home Page](assets/wireframe/homepage_43kb_450x365.png) 
 
 
 ### Gallery
 * Pictures telling a story with brief description. 
 * Tourist attractions for more information. 
 * Links to online resources for further knowledge.  
-![Gallery Page](assets/wireframe/gallery-23kb-794x858.png) 
+![Gallery Page](assets/wireframe/gallerypage_67kb_450x486.png) 
 
 
 ### About Us
 * Shows a feedback form, video, office postal address, contact details, and map location. 
-![About Us Page](assets/wireframe/about-us-18kb-793x732.png) 
+![About Us Page](assets/wireframe/aboutuspage_48kb_450x415.png) 
 
 
 ### Mobile version 
 * Mobile design initial idea.
-![Mobile View](assets/wireframe/mobile-view-45kb-904-941.png) 
+![Mobile View](assets/wireframe/mobileview_25kb_450x468.png) 
 [Table of Content](#table-of-content) :arrow_up:
 
 
